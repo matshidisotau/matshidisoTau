@@ -10,8 +10,8 @@ I am a final-year Bachelor of Science in Information Technology student at North
 
 ## 📁 Featured Projects
 *   **Clinic Database Management System:** A fully normalized Oracle SQL relational database schema built using strict business rules.
-* 🔭 I’m currently working on: **Independent Hardware Support & Upgrades:** Providing system repairs, hardware improvements, and technical support family and friends.
-*   🌱 I’m currently learning: IT Support basics.
+* **🔭 I’m currently working on:** Independent Hardware Support & Upgrades: Providing system repairs, hardware improvements, and technical support family and friends.
+*   **🌱 I’m currently learning:** IT Support basics.
 
 ---
 📫 **How to reach me:** 
