@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Matshidiso Tau 👋
 
-<!--
-**matshidisotau/matshidisoTau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Bachelor of Science in Information Technology student at North-West University (NWU). I specialize in systems troubleshooting, hardware operations, and database administration, blending hands-on hardware engineering with structured software principles.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
+*   **Hardware & IT Support:** Diagnostics & Troubleshooting, OS Installations (Windows/Linux), Device Maintenance & Upgrades (RAM/SSD).
+*   **Databases:** SQL, MySQL, Oracle SQL Developer, Database Normalization (3NF).
+*   **Programming:** Python, Java, C#, C++.
+*   **Web Technologies:** HTML5, CSS3, JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Featured Projects
+*   **Clinic Database Management System:** A fully normalized Oracle SQL relational database schema built using strict business rules.
+* 🔭 I’m currently working on: **Independent Hardware Support & Upgrades:** Providing system repairs, hardware improvements, and technical support family and friends.
+*   🌱 I’m currently learning: IT Support basics.
+
+---
+📫 **How to reach me:** 
+*   Email: matshidisotau4@gmail.com
+*   LinkedIn: [matshidiso-tau-b56540314](https://www.linkedin.com/in/matshidiso-tau-b56540314)
