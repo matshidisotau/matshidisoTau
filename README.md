@@ -17,3 +17,5 @@ I am a final-year Bachelor of Science in Information Technology student at North
 📫 **How to reach me:** 
 *   Email: matshidisotau4@gmail.com
 *   LinkedIn: [matshidiso-tau-b56540314](https://www.linkedin.com/in/matshidiso-tau-b56540314)
+*   Phone: 079 123 9189
+*   Virtual CV: https://matshidisotau.github.io/virtual-cv/
